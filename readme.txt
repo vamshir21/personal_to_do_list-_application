@@ -9,9 +9,5 @@ This application allows users to create, view, edit, and delete tasks. It stores
 - Mark tasks as completed.
 - Delete tasks.
 
-## Getting Started
-1. **Clone the repository** or download the project files.
-2. Ensure you have Python installed on your machine.
-3. Navigate to the project directory and run the application:
-   ```bash
-   python todo.py
+
+
